@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171410782758",
+    "firebase_url": "https://mash-cafe.firebaseio.com",
+    "project_id": "mash-cafe",
+    "storage_bucket": "mash-cafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171410782758:android:6c6c6d4bd8878d46b484e7",
+        "android_client_info": {
+          "package_name": "com.example.mashcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171410782758-qsf9phicjg3ue72nastdtoq7374s4tkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLDh4PwPTNV0z9ZfCGARZgnYDrqLVxLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171410782758-qsf9phicjg3ue72nastdtoq7374s4tkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
